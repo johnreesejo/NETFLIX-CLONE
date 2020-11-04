@@ -15,7 +15,7 @@ Projeto
 
 
   
-<img alt="portifolio" src="https://ik.imagekit.io/atnyozbx9v/ezgif.com-gif-maker_nU-86-Yaq.gif">
+<img alt="Netflix Clone" src="https://ik.imagekit.io/atnyozbx9v/ezgif.com-gif-maker__1__iNzYBwXXH.gif">
 
 
 
