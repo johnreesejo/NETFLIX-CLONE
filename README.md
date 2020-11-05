@@ -28,8 +28,8 @@ Projeto
 <hr>
 - HTML5 <br>
 - CSS3<br>
-- JavaScript<br>
-- VS Code<br><br>
+- JavaScript<br><br>
+
 
 ### 💻 PROJETO
 
