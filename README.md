@@ -28,7 +28,7 @@ Projeto
 <hr>
 - HTML5 <br>
 - CSS3<br>
-- JavaScript<br
+- JavaScript<br>
 
 
 ### 💻 PROJETO
