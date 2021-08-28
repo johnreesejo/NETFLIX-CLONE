@@ -29,11 +29,12 @@ Projeto
 - HTML5 <br>
 - CSS3<br>
 - JavaScript<br>
+- JQuery
 
 
 ### 💻 PROJETO
 
-Netflix Clone foi desenvolvido durante o Bootcamp HTML Web Developer da Digital Inovation One para fins estudantis.<br><br>
+Netflix Clone foi desenvolvido durante o Bootcamp JavaScript Game Developer da Digital Inovation One para fins estudantis. O objetivo do projeto era recriar a interface do principal site de streaming mundial utilizando tecnologias simples como HTML5, CSS3 e JavaScript. Nesse projeto aprendemos como estruturar um layout, tecnicas de CSS3 com containers e variáveis, como posicionar os elementos com flexbox e como utilizar plugins JQuery a favor da aplicação<br><br>
 
  
 
